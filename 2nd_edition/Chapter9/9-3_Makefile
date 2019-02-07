@@ -1,0 +1,2 @@
+history_save_to_file: history_save_to_file.c
+  gcc -fPIC -shared -o history_save_to_file.so history_save_to_file.c -I../../../include

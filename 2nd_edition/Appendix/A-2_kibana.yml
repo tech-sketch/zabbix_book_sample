@@ -1,0 +1,4 @@
+server.host: "0.0.0.0"
+......略
+elasticsearch.url: "http://elasticsearch-server:9200"
+......略

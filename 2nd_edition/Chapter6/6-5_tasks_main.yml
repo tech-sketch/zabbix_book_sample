@@ -1,0 +1,7 @@
+---
+- name: Install Zabbix package repository (RedHat).
+  yum: name=http://repo.zabbix.com/zabbix/{{ zabbix_major_version }}/rhel/7/x86_64/zabbix-release-{{ zabbix_major_version }}-1.el7.noarch.rpm state=present
+  when: "ansible_os_family == 'RedHat'"
+- name: Install Zabbix Agent (RedHat).
+  yum: name=zabbix-agent-{{ zabbix_major_version }}.{{ zabbix_minor_version }} state=present
+  when: "ansible_os_family == 'RedHat'"

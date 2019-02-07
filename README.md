@@ -1,7 +1,9 @@
 # Zabbix sample codes
 
-This collection of sample codes has been described in the Zabbix book(ISBN Code: 978-4-7741-6288-1).
-[the official site at gihyo.jp](http://gihyo.jp/book/2014/978-4-7741-6288-1?ard=1391386319)
+This collection of sample codes has been described in the Zabbix book 1st edition (ISBN Code: 978-4-7741-6288-1) and 2nd edition (ISBN Code: 978-4-2971-0434-4).
+
+- [The official site at gihyo.jp(1st edition)](http://gihyo.jp/book/2014/978-4-7741-6288-1?ard=1391386319)
+- [The official site at gihyo.jp(2nd edition)](http://gihyo.jp/book/)
 
 These codes are managed directory in each chapter of the book.
 Please refer to the contents of the book in addition to these codes.
@@ -14,7 +16,7 @@ We don't take responsibility for any trouble of using these codes.
 License
 ======
 
-Copyright 2014 TIS Inc. HyClops for Zabbix Team
+Copyright 2014-2019 TIS Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

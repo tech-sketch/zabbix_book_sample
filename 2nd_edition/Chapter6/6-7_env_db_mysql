@@ -1,0 +1,4 @@
+MYSQL_USER=myuser
+MYSQL_PASSWORD=mypassword
+MYSQL_ROOT_PASSWORD=root_pwd
+MYSQL_DATABASE=zabbix

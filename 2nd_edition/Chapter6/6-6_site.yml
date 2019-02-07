@@ -1,0 +1,7 @@
+---
+- hosts: 10.2.2.20
+  vars:
+    zabbix_major_version: 4.0
+    zabbix_minor_version: 1-1.el7
+  roles:
+    - zabbix-agent
