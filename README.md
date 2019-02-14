@@ -3,7 +3,7 @@
 This collection of sample codes has been described in the Zabbix book 1st edition (ISBN Code: 978-4-7741-6288-1) and 2nd edition (ISBN Code: 978-4-2971-0434-4).
 
 - [The official site at gihyo.jp(1st edition)](http://gihyo.jp/book/2014/978-4-7741-6288-1?ard=1391386319)
-- [The official site at gihyo.jp(2nd edition)](http://gihyo.jp/book/)
+- [The official site at gihyo.jp(2nd edition)](https://gihyo.jp/book/2019/978-4-297-10434-4)
 
 These codes are managed directory in each chapter of the book.
 Please refer to the contents of the book in addition to these codes.
